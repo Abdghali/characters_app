@@ -39,3 +39,4 @@ Implement pagination
 - Keep things clean, simple and fun
 - Use bloc state-management if possible
 - You can fork or clone the repo and share the link (make sure it is public and accessible) 
+# characters_app
